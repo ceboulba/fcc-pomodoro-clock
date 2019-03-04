@@ -1,0 +1,29 @@
+{
+  "name": "fcc-pomodoro-clock",
+  "version": "1.0.0",
+  "description": "Pomodoro Clock for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceboulba/fcc-pomodoro-clock.git"
+  },
+  "keywords": [],
+  "author": "Archipicture",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceboulba/fcc-pomodoro-clock/issues"
+  },
+  "homepage": "https://github.com/ceboulba/fcc-pomodoro-clock#readme",
+  "dependencies": {
+    "bulma": "^0.7.4",
+    "parcel-bundler": "^1.11.0"
+  },
+  "devDependencies": {
+    "sass": "^1.17.2"
+  }
+}
